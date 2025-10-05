@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.env.*
+
+# VS Code
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Data and outputs (avoid pushing large files)
+data/
+outputs/
+
+# Build/dist folders
+build/
+dist/
+*.egg-info/
