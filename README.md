@@ -7,7 +7,6 @@ Comprehensive analysis of COVID-19 pandemic data from Johns Hopkins University. 
 - **Data Pipeline**: Automated data collection and processing from Johns Hopkins University
 - **SQL Database**: Structured data storage with complex query capabilities
 - **Data Visualization**: Interactive charts and business insights
-- **Power BI Ready**: Enhanced dataset for dashboard creation
 - **Business Intelligence**: Actionable insights for pandemic analysis
 
 ## 📈 Key Insights Generated
